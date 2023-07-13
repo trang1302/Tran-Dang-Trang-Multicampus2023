@@ -1,0 +1,28 @@
+.clock{
+    width: 300px;
+    background-color: aquamarine;
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+
+}
+.input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10px;
+}
+.clock-work{
+    background-color: brown;
+    
+}
+.settime{
+    width: 80px;
+}
+.input1{
+    margin-bottom: 5px;
+}
